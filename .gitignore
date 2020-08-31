@@ -1,0 +1,6 @@
+
+*.pyc
+*.DS_Store
+*.pth
+
+Interface Demo/model_utils/ckpt/*
